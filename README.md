@@ -1,4 +1,4 @@
-<span style="color:green;"># Hello! 👋🏽</span>
+# Hello! 👋🏽
 
 ## I'm Samuel Ayo!
 
