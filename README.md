@@ -12,10 +12,10 @@ I'm an upcoming Web Developer and DevOps Engineer passionate about building scal
 
 Feel free to check out my repositories and connect with me!
 
-🌍 Location: UTC+1
-📧 Email: genericouniverso@gmail.com
-📞 Phone: +234 (0) 815 859 1999
-💼 LinkedIn: linkedin.com/
+🌍 Location: UTC+1  
+📧 Email: genericouniverso@gmail.com  
+📞 Phone: +234 (0) 815 859 1999  
+💼 LinkedIn: linkedin.com/  
 💻 GitHub: github.com/SamuelGH7
 
 ***
