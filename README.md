@@ -1,3 +1,3 @@
-Hi there 👋🏽
+# Hi there 👋🏽
 
-I'm Samuel Ayo Adewale
+## I'm Samuel Ayo Adewale
