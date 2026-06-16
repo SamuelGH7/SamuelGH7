@@ -8,7 +8,7 @@
 
 👩🏽‍💻 About Me
 
-I'm an upcoming Web Developer and DevOps Engineer passionate about building scalable web applications and optimizing the software development lifecycle. I am currently honing my skills in front-end technologies and DevOps tools to bridge the gap between development and operations. My goal is to create efficient, robust, and user-friendly applications while automating processes for faster delivery and continuous improvement.
+An aspiring UI/UX and frontend developer documenting my journey and building useful projects.
 
 Feel free to check out my repositories and connect with me!
 
